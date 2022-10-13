@@ -27,13 +27,14 @@ h1 {
 
 h2 {
     color: rgb(59, 82, 26);
+    font-family: 'Cairo';
     margin-top: -5px;
     margin-bottom: -5px;
 
 }
 
 h3 {
-    font-family: 'Fuzzy Bubbles';
+    font-family: 'Times New Roman', Times, serif;
     color: rgb(211, 93, 93);
 }
 
