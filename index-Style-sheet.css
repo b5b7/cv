@@ -1,0 +1,30 @@
+body {
+
+    background-color: rgb(207, 245, 245);
+    font-family: 'Cairo';
+}
+
+hr {
+    size: 1;
+    width: 95%;
+    border: hidden;
+    border-bottom: 10px dotted rgb(51, 221, 164);
+    height: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font: 'Fuzzy Bubbles';
+    color: rgb(138, 78, 4);
+}
+h2{
+    color: rgb(59, 82, 26);
+}
+
+h3 {
+    font-family: 'Fuzzy Bubbles';
+    color: lightslategrey;
+}
